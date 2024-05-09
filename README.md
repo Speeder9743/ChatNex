@@ -1,7 +1,7 @@
 # ChatNex 
 
 ## Description
-This is a AI language model to make your HIWONDER AiNex robot more realistic. It adds conversational abilities (MORE COMING SOON!). I specifically made this JUST FOR HIWONDER's AiNex robot. If you want to check it out, visit https://www.hiwonder.com/products/ainex?variant=40257678147671.
+This is a AI language model to make your HIWONDER AiNex robot more realistic. It adds conversational abilities. I specifically made this JUST FOR HIWONDER's AiNex robot. If you want to check it out, visit https://www.hiwonder.com/products/ainex?variant=40257678147671.
 
 ## Installation
 - PLEASE READ BEFORE INSTALLING: This is meant to be downloaded on Windows, then moved to AiNex's Raspberry Pi board using a USB stick or other external storage device.
@@ -38,7 +38,7 @@ If you want to contribute to this project, please follow these steps:
 - I used Python 3.11.9 to code this. Please don't use other versions that have changes that modify library functions or function attributes, or else it might not work.
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) License. - see the LICENSE.md file for details.
+This project is licensed under the Unlicense license. - see the LICENSE.md file for details.
 
 ## Contact
 If you have any questions or feedback, please contact Ethan at speederbosman@gmail.com.
