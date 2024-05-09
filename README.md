@@ -1,7 +1,5 @@
 # ChatNex 
 
-# IN PROGRESS, DO NOT DOWNLOAD
-
 ## Description
 This is a AI language model to make your HIWONDER AiNex robot more realistic. It adds conversational abilities (MORE COMING SOON!). I specifically made this JUST FOR HIWONDER's AiNex robot. If you want to check it out, visit https://www.hiwonder.com/products/ainex?variant=40257678147671.
 
