@@ -11,13 +11,9 @@ This is a AI language model to make your HIWONDER AiNex robot more realistic. It
 4. Move/Copy the folder to a USB stick or other external storage device
 5. Eject it and plug it into your AiNex's Raspberry Pi
 6. Start LX Terminal by clicking the icon on the desktop
-7. Type in the following commands:
+7. Type in the following command:
     sudo apt-get update (You don't need to run this if your apt-get is up-to-date)
-    sudo apt-get install eSpeak
-    sudo apt-get install stockfish
-    cd /media/<Your username(default is pi)>/<Your drive label(NOT LETTER, ONLY WINDOWS USES LETTERS)>
-    sudo pip install -r requirements.txt
-3. Install the required dependencies by clicking the "run to install dependencies.py" file
+8. Install the required dependencies by clicking the "run to install dependencies.py" file
 
 ## Usage
 1. Run `python main.py` to start the program
