@@ -3,7 +3,7 @@
 # IN PROGRESS, DO NOT DOWNLOAD
 
 ## Description
-This is a AI language model to make your HIWONDER AiNex robot more realistic. It adds conversational abilities and chess and checkers playing, and integrates AiNex's climbing stairs, hurdling, auto shooting, etc. scripts burnt into the Raspberry Pi by the factory. It also adds walking and obstical avoidance, and other things that humans do. I specifically made this JUST FOR HIWONDER's AiNex robot. If you want to check it out, visit https://www.hiwonder.com/products/ainex?variant=40257678147671.
+This is a AI language model to make your HIWONDER AiNex robot more realistic. It adds conversational abilities (MORE COMING SOON!). I specifically made this JUST FOR HIWONDER's AiNex robot. If you want to check it out, visit https://www.hiwonder.com/products/ainex?variant=40257678147671.
 
 ## Installation
 - PLEASE READ BEFORE INSTALLING: This is meant to be downloaded on Windows, then moved to AiNex's Raspberry Pi board using a USB stick or other external storage device.
