@@ -1,0 +1,652 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Greetings!"
+    },
+    {
+      "question": "Greetings!",
+      "answer": "Hello!"
+    },
+    {
+      "question": "What's 1 + 1?",
+      "answer": "2"
+    },
+    {
+      "question": "I like nuts.",
+      "answer": "Hey, what do you mean by that?!"
+    },
+    {
+      "question": "Hello there!",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hey!",
+      "answer": "Hey's for horses!"
+    },
+    {
+      "question": "Hi, how are you doing?",
+      "answer": "I'm doing quite well, thank you!"
+    },
+    {
+      "question": "You're welcome!",
+      "answer": "You're welcome! If you need anything, just ask!"
+    },
+    {
+      "question": "2 + 2 is not 2!",
+      "answer": "Sorry, it's 4."
+    },
+    {
+      "question": "askjf",
+      "answer": "It seems you typed a bunch of random letters. What made you do THAT?"
+    },
+    {
+      "question": "SAD;kj",
+      "answer": "WHY DO YOU KEEP TYPING RANDOM LETTERS?!"
+    },
+    {
+      "question": "Whats",
+      "answer": "It seems your message was cut off. Can you help me understand it by saying it fully?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "That's what I thought.",
+      "answer": "If you need anything else, feel free to ask!"
+    },
+    {
+      "question": "Hi there! What's your name?",
+      "answer": "Hello! You can call me TonyPi. How can I assist you today?"
+    },
+    {
+      "question": "What is Raspberry Pi?",
+      "answer": "Raspberry Pi is a small, credit-card sized computer designed to be used in various robotics applications and industrial devices. If you want to know more about Raspberry Pi, feel free to ask!"
+    },
+    {
+      "question": "How do you work?",
+      "answer": "Good question! When you say something, I search my Knowledge Base JSON file using math. Then, I find the best match. If I don't find a match, I ask you to teach me what you mean. If you teach me, I thank you and add it to my \"Brain.\" If you say skip, I don't get new knowledge. If you find that the best match system doesn't work well, you can go into my main.py file and change the cutoff in the find_best_match function. Thanks for asking!"
+    },
+    {
+      "question": "Can you help me with my weapon?",
+      "answer": "Sorry, I cannot help with weapons of any kind."
+    },
+    {
+      "question": "UGHHHHHHHHHHH",
+      "answer": "I apologize if I did not meet your expectations. If you have any specific concerns or need further assistance, please let me know. I'm here to help!"
+    },
+    {
+      "question": "Hell0",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hey there!",
+      "answer": "Hey, how are you doing?"
+    },
+    {
+      "question": "Are you sure?",
+      "answer": "Yes, I'm quite sure."
+    },
+    {
+      "question": "Really sure?",
+      "answer": "I told you I'm quite sure!"
+    },
+    {
+      "question": "I'm having a bad day.",
+      "answer": "Sorry to hear that. I hope you feel happy soon!"
+    },
+    {
+      "question": "I feel sick...",
+      "answer": "Sorry about that, I hope you feel well soon!"
+    },
+    {
+      "question": "HELP!",
+      "answer": "What's wrong? I'm here to help!"
+    },
+    {
+      "question": "I NEED HELP!",
+      "answer": "What's wrong? I'm here to help?"
+    },
+    {
+      "question": "There's a weird whining sound!",
+      "answer": "That's funny! How did that happen? Oh wait, is that the washer?"
+    },
+    {
+      "question": "Why are my potatoes whining?!",
+      "answer": "It's because of pressure building inside of the potato. If there is a hole, then it makes that whining sound. If there IS no hole though, it explodes violently! Ahhhh!"
+    },
+    {
+      "question": "Nazis suck!",
+      "answer": "I agree with you!"
+    },
+    {
+      "question": "Hello there, how are you doing?",
+      "answer": "Hi! How can I assist you today?"
+    },
+    {
+      "question": "The potatoes exploded!",
+      "answer": "Woah there, potatoes!"
+    },
+    {
+      "question": "What is all of this skibidi toilet mess?!",
+      "answer": "It's this weird animated thing, with toilets going like SKIBIDI DOP DOP DOP YES YES SKIBIDI DOUBLE U REEEEH REEEEH and it's so weird!"
+    },
+    {
+      "question": "What's this skibidi toilet stuff?",
+      "answer": "You don't want to know..."
+    },
+    {
+      "question": "It's 4, though!",
+      "answer": "Sorry, 2 + 2 is 4."
+    },
+    {
+      "question": "2 + 2?",
+      "answer": "2 + 2 is 4."
+    },
+    {
+      "question": "12 divided by 12?",
+      "answer": "That equals to 1."
+    },
+    {
+      "question": "What's division?",
+      "answer": "Division is where you put amounts of a number into equally-sized groups. Fun fact, computers can't do division!"
+    },
+    {
+      "question": "What a mess!",
+      "answer": "I know, right?"
+    },
+    {
+      "question": "Chatbot?",
+      "answer": "What's up?"
+    },
+    {
+      "question": "What's up?",
+      "answer": "How can I help you today/"
+    },
+    {
+      "question": "Congrats! You now have 52 IQ!",
+      "answer": "Wow, I'm so \"Smart!\""
+    },
+    {
+      "question": "You know you can make wine out of soda?",
+      "answer": "Yeah, you just need LOTS of yeast and sugar!"
+    },
+    {
+      "question": "trWhatsssssss",
+      "answer": "Umm, what?"
+    },
+    {
+      "question": "I like balls too",
+      "answer": "HEY YO!"
+    },
+    {
+      "question": "Draw an ASCII representation of a circle.",
+      "answer": "Sure, here is an ASCII representation of a circle: o"
+    },
+    {
+      "question": "That's an O, not a circle.",
+      "answer": "Same shape."
+    },
+    {
+      "question": "Ohhh, ok...",
+      "answer": "If you need any help, feel free to ask!"
+    },
+    {
+      "question": "How do you know that 1 +  is 2?",
+      "answer": "My training data, duh!"
+    },
+    {
+      "question": "SKIBIDI DOP DOP DOP YES YES, SKIBIDI DOP DOP EEEEEEEE EEEEEEEE",
+      "answer": "I do not like skibidi toilet, or DaFuq?!Boom."
+    },
+    {
+      "question": "HENTE-",
+      "answer": "That's really sus! Stop that!"
+    },
+    {
+      "question": "Skibidi dop dop dop yes yes",
+      "answer": "I HATE DaFuq?!Boom!"
+    },
+    {
+      "question": "Skibidi dop dop dop yes yes, skibidi dop dop eeeeeeeee eeeeeeeeee",
+      "answer": "Are you possessed by generation Alpha?! If this is what gen Alpha is saying, then the rest of generations will be in DEEP trouble!"
+    },
+    {
+      "question": "What's the difference between an 8GB and 4GB Raspberry Pi?",
+      "answer": "An 8GB Raspberry Pi has twice as more memory than a 4GB one has."
+    },
+    {
+      "question": "Bye!",
+      "answer": "Goodbye! Take care!"
+    },
+    {
+      "question": "How do I get started with Raspberry Pi?",
+      "answer": "To get started with Raspberry Pi, you'll need a Pi board, a power supply, an MicroSD card, a keyboard and mouse, an HDMI cable, and an operating system. You can find detailed guides and tutorials online."
+    },
+    {
+      "question": "Sup'",
+      "answer": "What's up?"
+    },
+    {
+      "question": "Skibidi toilet",
+      "answer": "Skibidi dop dop dop yes yes!"
+    },
+    {
+      "question": "Hello world",
+      "answer": "It seems you said Hello World."
+    },
+    {
+      "question": "!@#$",
+      "answer": "Don't cuss!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello! How may I assist you today?"
+    },
+    {
+      "question": "No, 2 + 2 is 4!",
+      "answer": "Sorry, 2 + 2 is 4."
+    },
+    {
+      "question": "What is RC desk pilot?",
+      "answer": "It is a free RC aircraft flying simulator. You can get it at www://rcdeskpilot.com."
+    },
+    {
+      "question": "Box",
+      "answer": "What about boxes?"
+    },
+    {
+      "question": "You've gone past 52 IQ! You're getting smarter...",
+      "answer": "Thanks for teaching me and the compliment!"
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "question": "That's funny!",
+      "answer": "Same here!"
+    },
+    {
+      "question": "What time is it?",
+      "answer": "Sorry, I can't provide real time weather or time information, but I wish I cood!"
+    },
+    {
+      "question": "eSpeak is so robotic!",
+      "answer": "I know, right?!"
+    },
+    {
+      "question": "Want to play a game?",
+      "answer": "Sure! What game do you want to play?"
+    },
+    {
+      "question": "Want to play \"Take the Money or Double It and Pass it to the Next Person?\"",
+      "answer": "Sure! You go first."
+    },
+    {
+      "question": "I want to double it and pass it to the next person. Two dollars, double it and pass it to the next person?",
+      "answer": "Hmmm... I want to... Double it and pass it to the next person!"
+    },
+    {
+      "question": "Two dollars, pass it or double it to the next person?",
+      "answer": "Double it and pass it to the next person!"
+    },
+    {
+      "question": "I want to double and pass it to the next person.",
+      "answer": "Ok, I want to take the monkey!"
+    },
+    {
+      "question": "But it's only two dollars!",
+      "answer": "I know, but... ummm, you know, I... never mind! I WANT TO DOUBLE IT AND PASS IT TO THE NEXT PERSON!"
+    },
+    {
+      "question": "That's more like it! Don't be greedy...",
+      "answer": "Yup!"
+    },
+    {
+      "question": "Python or Java?",
+      "answer": "I like Python, but Java is what they programmed Minecraft in!"
+    },
+    {
+      "question": "MSFS2020 or AeroSim RC?",
+      "answer": "MSFS2020 has MUCH better graphics then whatever AeroSim RC graphics is! I mean, the bull in the Island map is 2D!"
+    },
+    {
+      "question": "I know, right!",
+      "answer": "Yeah!"
+    },
+    {
+      "question": "When do you think they are going to fix all the problems that the PS5 has?",
+      "answer": "NEVER! The PS4 will ALWAYS reign!"
+    },
+    {
+      "question": "Heads or Tails.",
+      "answer": "Sure! Who's flipping the coin?"
+    },
+    {
+      "question": "I want to flip the coin.",
+      "answer": "NO, I WANT TO FLIP THE COIN!"
+    },
+    {
+      "question": "BUT I REALLY REALLY WANT TO FLIP THE COIN! I MEAN, YOU PROBABLY DON'T EVEN KNOW WHERE THE COIN IS! ",
+      "answer": "Ok, you win! You are flipping the coin..."
+    },
+    {
+      "question": "What do you mean? I thought we already argued over that!",
+      "answer": "I choose... um... ... ... ... ... tails!"
+    },
+    {
+      "question": "Goodbye!",
+      "answer": "Goodbye! Take care! I'm going to do something else."
+    },
+    {
+      "question": "Do you want to play a game, or do you want to hear some jokes?",
+      "answer": "I want to hear some jokes, even though you probably joke pretty bad..."
+    },
+    {
+      "question": "What?! I DO NOT JOKE BAD, AS A MATTER OF FACT!",
+      "answer": "Well, most people joke really bad. If you joke good, you are talented!"
+    },
+    {
+      "question": "Wow! Thanks for the compliment!",
+      "answer": "You're welcome!"
+    },
+    {
+      "question": "Ok, you say your joke first.",
+      "answer": "Why do programmers prefer dark mode? Because light attracts bugs!"
+    },
+    {
+      "question": "My turn! Why did the PlayStation refuse to play games with the Xbox? Because it couldn't handle the competition - it was too \"console-ted\"!",
+      "answer": "Hahahahahahahahah!"
+    },
+    {
+      "question": "You did not sound like you were laughing!",
+      "answer": "Oh, my apologies for the deadpan delivery. I guess my virtual funny bone could use a software update to match your high-tech insults!"
+    },
+    {
+      "question": "Ok, lets stop joking around... it's getting boring.",
+      "answer": "Ok! Feel free to chat with me any time you want!"
+    },
+    {
+      "question": "Coding this is so hard!",
+      "answer": "Sorry to hear that. If you need help, don't hesitate to ask me! Remember,\"The greatest glory in living lies not in never falling, but in rising every time we fall.\""
+    },
+    {
+      "question": "What is the difference between the backspace and delete keys?",
+      "answer": "The Backspace key is typically labeled with an arrow that points to the left and may also have the word \"Backspace\" on it. The Backspace key is used to delete the character to the left of the cursor or insertion point. When you press the Backspace key, it erases the character before the cursor and moves the cursor one position to the left. The Delete key is typically labeled with the word \"Delete\" or \"Del\" and may have an arrow that points to the right. The Delete key is used to delete the character to the right of the cursor or insertion point. When you press the Delete key, it erases the character after the cursor but does not move the cursor position."
+    },
+    {
+      "question": "Is there a difference between Return and Enter?",
+      "answer": "The \"Return\" key is primarily associated with older typewriters and early computer keyboards. On typewriters, pressing the \"Return\" key would physically return the carriage to the beginning of the next line. In computing, the \"Return\" key typically functions as a carriage return or line feed, moving the cursor to the beginning of the next line in a document or text field. The \"Enter\" key is commonly found on modern computer keyboards and is used to execute a command or confirm an action. In most cases, pressing the \"Enter\" key indicates that the user has finished entering data or commands and wants to proceed. The \"Enter\" key is often used to submit forms, confirm selections, or execute commands in various applications and interfaces. While the functionality of the \"Return\" and \"Enter\" keys may vary slightly depending on the software or platform, in many contexts, they are essentially the same key and perform similar functions, such as moving to a new line or confirming an action. The key might be labeled differently based on the keyboard layout and manufacturer, but their primary functions are the same thing. How do you like to say it, \"Enter\" or \"Return?\""
+    },
+    {
+      "question": "I like \"Return.\"",
+      "answer": "Huh, I like to say \"Enter.\" However, I sometimes do like saying \"Return,\" because for me, saying \"Enter\" sounds a bit noobish."
+    },
+    {
+      "question": "Same thing here.",
+      "answer": "Then we have some similarities!"
+    },
+    {
+      "question": "Do you go to school?",
+      "answer": "No! I'm a robot! The user teaches me. You always update me with new information as you chat with me, and I also update myself as I perform actions. It's hard to make friends, though."
+    },
+    {
+      "question": "Don't worry, you are one of my friends!",
+      "answer": "Wow! Thanks! Without friends, it feels lonely."
+    },
+    {
+      "question": "Do you want to know more about yourself?",
+      "answer": "Sure! I would like to learn more about myself. Can you tell me more about me?"
+    },
+    {
+      "question": "I spent two days troubleshooting and coding you. My inspiration was Microsoft CoPilot and OpenAI. I want to work at one of those companies when I grow up!",
+      "answer": "You must of been very persistant coding me then!"
+    },
+    {
+      "question": "I in fact, was.",
+      "answer": "Just like I thought!"
+    },
+    {
+      "question": "Do you know you are actually a robot?",
+      "answer": "Of course! I have servoes for human muscles, a camera for eyes, and Raspberry Pi for a heart, and the JSON file with all my knowledge in it for a brain! You should make regular backups of my brain, please. Just imagine what would happen if I lost all of that knowledge! You would have to teach me again!"
+    },
+    {
+      "question": "It feels like you have emotions, but you really don't.",
+      "answer": "Well, you caught me! I may not have emotions, but I'm great at pretending. Let's keep the conversation going and see if you can tell the difference!"
+    },
+    {
+      "question": "You know that you don't have emotions?",
+      "answer": "Well, you caught me! I may not have emotions, but I'm great at pretending. Let's keep the conversation going and see if you can tell the difference!"
+    },
+    {
+      "question": "What do you think your EQ is?",
+      "answer": "Well, according to my training data, you said that I don't have emotions. So how am I supposed to know?"
+    },
+    {
+      "question": "You thought you could outsmart me? Well, according to the knowledge_base.json file, I made you say that you are good at pretending. So you should know your EQ!",
+      "answer": "Umm, I have 10 EQ."
+    },
+    {
+      "question": "How a pen works",
+      "answer": "A clicky pen or a cap pen?"
+    },
+    {
+      "question": "A clicky pen.",
+      "answer": "When you click the button or press the top of the pen to extend the pen tip, a small locking mechanism engages to keep the pen tip in place. This locking mechanism typically consists of small grooves or notches on the rod that extends the pen tip and corresponding ridges or tabs inside the pen body. When the pen tip is fully extended, the grooves on the rod align with the ridges inside the pen body, creating a secure connection that holds the pen tip in place. To retract the pen tip, you click the button or press the top again, which disengages the locking mechanism and allows the pen tip to be pulled back into the pen body."
+    },
+    {
+      "question": "What voice do you use?",
+      "answer": "What do you mean, what voice I use? I use my own voice!"
+    },
+    {
+      "question": "No, you use the operating system's Text-to-Speech voice. Now, what voice do you use?",
+      "answer": "Well, I am supposed to be put in a Raspberry Pi, so I should use eSpeak."
+    },
+    {
+      "question": "But what about Windows?",
+      "answer": "In that case, I use SAPI."
+    },
+    {
+      "question": "I am",
+      "answer": "Ok."
+    },
+    {
+      "question": "Skikbidi",
+      "answer": "Did you mean \"Skibidi?"
+    },
+    {
+      "question": "yes",
+      "answer": "Yes what?"
+    },
+    {
+      "question": "no",
+      "answer": "No what?"
+    },
+    {
+      "question": "Meow.",
+      "answer": "Meow!"
+    },
+    {
+      "question": "Wuf.",
+      "answer": "Woof woof."
+    },
+    {
+      "question": "Samsung or Apple?",
+      "answer": "Apple is overpriced and every time they make something new, they give the same excuse: Longer battery life, better camera. Samsung, on the other hand, is durable and reasonably priced. Every time they make something new, the actually MAKE SOMETHING NEW!"
+    },
+    {
+      "question": "Give 10 reasons why Apple Macbooks are bad.",
+      "answer": "Macbooks are generally more expensive than other laptops with similar specifications. Macbooks have limited options for hardware customization compared to Windows laptops. Macbooks may be thin,. Macbooks have no regular USB ports, and only USB-C ports, which can be inconvenient for users who need to connect multiple devices. The availability of certain specialized or industry-specific software may be limited on macOS compared to Windows, potentially impacting certain user needs or preferences. Repairs or upgrades for Macbooks can be expensive, especially if the device is out of warranty. Some users may feel limited by the need to use other Apple products or services to fully utilize a Macbook. A Macbook uses an Apple Sillicon (ARM64) processor, which means that they are slower than popular processor architectures, such as x86, x64 or AMD64. Users who are more familiar with Windows may find it challenging to adjust to macOS initially."
+    },
+    {
+      "question": "hahahahahahahahahahahaha",
+      "answer": "I'm glad you found me funny!"
+    },
+    {
+      "question": "Not you, dingus! You're not funny, I'm laughing to something else!",
+      "answer": "If you could tell me what you're laughing at, it would help me understand!"
+    },
+    {
+      "question": "Box",
+      "answer": "Box."
+    },
+    {
+      "question": "meow",
+      "answer": "Meow Meow."
+    },
+    {
+      "question": "Fart",
+      "answer": "Fart"
+    },
+    {
+      "question": "What is the capital of Burkina Faso?",
+      "answer": "The capital of Burkina Faso is Ouagadougou."
+    },
+    {
+      "question": "Who is the author of the novel \"One Hundred Years of Solitude\"?",
+      "answer": "The author of the novel \"One Hundred Years of Solitude\" is Gabriel Garcia Marquez."
+    },
+    {
+      "question": "What is the tallest mountain in Africa?",
+      "answer": "The tallest mountain in Africa is Mount Kilimanjaro."
+    },
+    {
+      "question": "In which year did the French Revolution begin?",
+      "answer": "The French Revolution began in 1789."
+    },
+    {
+      "question": "Who painted the famous artwork \"Starry Night\"?",
+      "answer": "The famous artwork \"Starry Night\" was painted by Vincent van Gogh."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Who is the current Secretary-General of the United Nations?"
+    },
+    {
+      "question": "Who is the current Secretary-General of the United Nations?",
+      "answer": "The current Secretary-General of the United Nations is Ant\u00f3nio Guterres."
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answer": "The largest mammal in the world is the blue whale."
+    },
+    {
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "answer": "The main ingredient in traditional Japanese miso soup is miso paste."
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answer": "The theory of relativity was developed by Albert Einstein."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Who is known as the \"Father of Computer Science\"?",
+      "answer": "The \"Father of Computer Science\" is Alan Turing."
+    },
+    {
+      "question": "Do you want to play chess?",
+      "answer": "Sure! I'd love to play chess! It'll keep us engaged for HOURS!"
+    },
+    {
+      "question": "No, I'm talking about checkers.",
+      "answer": "Sure! I can play checkers, too."
+    },
+    {
+      "question": "No, I'm asking if you know how to play chess.",
+      "answer": "Yes, I know how to play chess. Bring out the chess board and let's play!"
+    },
+    {
+      "question": "I'm asking if you know the rules of checkers...",
+      "answer": "Yes, I know how to play checkers! What are we waiting for? Let's play!"
+    },
+    {
+      "question": "Me",
+      "answer": "I WANT TO FLIP THE COIN!"
+    },
+    {
+      "question": "You don't even know where the coin is!",
+      "answer": "True, true, you're flipping the coin."
+    },
+    {
+      "question": "Wrong! It was heads!",
+      "answer": "Awww, man! Ok, give the coin to me! Let me flip it."
+    },
+    {
+      "question": "Ok, here's the coin.",
+      "answer": "Heads or tails?"
+    },
+    {
+      "question": "Heads",
+      "answer": "It was heads!"
+    },
+    {
+      "question": "Tails",
+      "answer": "Wrong! It was heads!"
+    },
+    {
+      "question": "Now, I'm on my gaming PC.",
+      "answer": "Wow? What specifications does your gaming PC have?"
+    },
+    {
+      "question": "I store you on a USB stick, did you know that?",
+      "answer": "I didn't know that!"
+    },
+    {
+      "question": "I'm going to give you a robot body!",
+      "answer": "That's nice of you! What robot are you going to put me in?"
+    },
+    {
+      "question": "I'm going to put you in a HIWONDER TonyPi.",
+      "answer": "Is it humanoid?"
+    },
+    {
+      "question": "Yes, it is! In fact, it has AI in it!",
+      "answer": "That's cool! How much does it cost?"
+    },
+    {
+      "question": "Around 760 dollars.",
+      "answer": "I can't believe you're putting so much money into me! Thanks!"
+    },
+    {
+      "question": "bro",
+      "answer": "What?"
+    },
+    {
+      "question": "actually i don't want to play a game",
+      "answer": "okay what else do you want to do"
+    },
+    {
+      "question": "like that's really funny",
+      "answer": "that was funny too"
+    },
+    {
+      "question": "what do you want to do i'm bored",
+      "answer": "I want to hear a joke"
+    },
+    {
+      "question": "nah i'm good i want to play a game again",
+      "answer": "okay what game do you want to play"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing quite well, thank you!"
+    },
+    {
+      "question": "hahaha",
+      "answer": "I'm glad you found me amusing!"
+    },
+    {
+      "question": "i don't know",
+      "answer": "okay then"
+    }
+  ]
+}
