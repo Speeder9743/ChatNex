@@ -34,7 +34,7 @@ If you want to contribute to this project, please follow these steps:
 - I used Python 3.11.9 to code this. Please don't use other versions that have changes that modify library functions or function attributes, or else it might not work.
 
 ## License
-This project is licensed under the Unlicense license. - see the LICENSE.md file for details.
+This project is licensed under the MIT license. - see the LICENSE.md file for details.
 
 ## Contact
 If you have any questions or feedback, please contact Ethan at speederbosman@gmail.com.
