@@ -59,7 +59,7 @@ def chat_bot():
     
     # Chat loop 
     while True:
-        mic_input = 1
+        new_answer = None
         if prompt_type == '1':
                 try:
                     with sr.Microphone() as source:
@@ -67,7 +67,6 @@ def chat_bot():
                         audio = recognizer.listen(source)
                         user_input = recognizer.recognize_google(audio)
                         print('>>>', user_input)
-                        mic_input = 0
                 except sr.UnknownValueError:
                     text = print("I couldn't hear what you were saying. Can you please speak clearly?")
                     engine.say(text)
@@ -87,7 +86,7 @@ def chat_bot():
             engine.say(answer)
             engine.runAndWait()
         else:
-            text = "I don't know the answer. Can you teach me?"
+            text = "Sorry, I don't understand. Can you teach me?"
             print(text)
             engine.say(text)
             engine.runAndWait()
@@ -100,7 +99,6 @@ def chat_bot():
                             audio = recognizer.listen(source)
                             new_answer = recognizer.recognize_google(audio)
                             print(new_answer)
-                            mic_input = 0
                     except sr.UnknownValueError:
                         text = print("I couldn't hear what you were saying. Can you please speak clearly?")
                         engine.say(text)
@@ -109,9 +107,9 @@ def chat_bot():
             elif prompt_type == '2':
                 new_answer = input('Type the answer or "skip" to skip: ')
 
-        # Because of the code logic, you get an UnboundLocalError when you don't say your response when the chatbot asks you to teach it. For this reason, we ignore the error using a try-except block here.
+        # Because of the code logic, you get an UnboundLocalError when you don't say your response when the chatbot asks you to teach it. We also getr an AttributeError when NoneType is being lowered. For this reason, we ignore the errors using a try-except block here.
         try:
-            if new_answer.lower() != 'skip':
+            if new_answer.lower() != 'skip' and not None:
                 # Lowercase user_input before adding to knowledge base
                 knowledge_base["questions"].append({"question": user_input.lower(), "answer": new_answer})
                 save_knowledge_base('knowledge_base.json', knowledge_base)
@@ -120,6 +118,8 @@ def chat_bot():
                 engine.say("Thank you! I learned something new!")
                 engine.runAndWait()
         except UnboundLocalError:
+            pass
+        except AttributeError:
             pass
 
 if __name__ == '__main__':
