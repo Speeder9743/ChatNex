@@ -91,8 +91,8 @@ def chat_bot():
             engine.say(text)
             engine.runAndWait()
             # Get the user's response to teach the bot
-            print('Say the answer or say "skip" to skip:')
             if prompt_type == '1':
+                    print('Say the answer or say "skip" to skip:')
                     try:
                         with sr.Microphone() as source:
                             recognizer.adjust_for_ambient_noise(source)
@@ -124,4 +124,3 @@ def chat_bot():
 
 if __name__ == '__main__':
     chat_bot()
-
