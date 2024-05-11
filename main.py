@@ -3,6 +3,8 @@ import json
 from difflib import get_close_matches
 import pyttsx3
 import speech_recognition as sr
+# Import sounddevice to supress ALSA errors. Read more at https://github.com/Uberi/speech_recognition/issues/182.
+import sounddevice
 
 #--------------INIT-------------
 # Initialize TTS engine
@@ -124,3 +126,6 @@ def chat_bot():
 
 if __name__ == '__main__':
     chat_bot()
+
+
+
