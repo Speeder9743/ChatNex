@@ -558,7 +558,7 @@
     },
     {
       "question": "No, I'm talking about checkers.",
-      "answer": "Sure! I can play checkers, too."
+      "answer": "Sure! I can play checkers!"
     },
     {
       "question": "No, I'm asking if you know how to play chess.",
@@ -647,6 +647,74 @@
     {
       "question": "i don't know",
       "answer": "okay then"
+    },
+    {
+      "question": "why do you sound so distorted",
+      "answer": "I really don't know, is it because i'm using eSpeak?"
+    },
+    {
+      "question": "keyboard",
+      "answer": "What aout keyboards?"
+    },
+    {
+      "question": "raspberry pi fan?",
+      "answer": "Raspberry Pis do get very hot during operation, so it is ideal to use a fan, especially if you plan to use heavy applications on it frequently."
+    },
+    {
+      "question": "print(\"hello world\")",
+      "answer": "It seems you are trying to print Hello World to the Python shell. Good work, beginner!"
+    },
+    {
+      "question": "heads or tails? choose one.",
+      "answer": "Heads or tails... I choose tails!"
+    },
+    {
+      "question": "linux equals to penguin",
+      "answer": "I know."
+    },
+    {
+      "question": "toilet",
+      "answer": "What about toilets?"
+    },
+    {
+      "question": "sigma",
+      "answer": "Sticking out your gyatt for the rizzler! You're so skibidi, you're so fanum tax! I just wanna be your sigma."
+    },
+    {
+      "question": "help",
+      "answer": "What do you need help with?"
+    },
+    {
+      "question": "who is skibidi toilet's maker?",
+      "answer": "TheFuq?!Boom!"
+    },
+    {
+      "question": "holy shit.",
+      "answer": "What's wrong?"
+    },
+    {
+      "question": "s'up?",
+      "answer": "S'up?"
+    },
+    {
+      "question": "hey chatnex, this is a screwdriver, which can only mean one thing.",
+      "answer": "Oh no, do you need to replace one of my parts? Just make sure it doesn't hurt!"
+    },
+    {
+      "question": "here you go.",
+      "answer": "Heads or tails?"
+    },
+    {
+      "question": "let's go!",
+      "answer": "Looks like the luck was on your side this time!"
+    },
+    {
+      "question": "i need to go.",
+      "answer": "Goodbye!"
+    },
+    {
+      "question": "be right back!",
+      "answer": "See you later!"
     }
   ]
 }
